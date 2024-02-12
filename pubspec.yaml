@@ -1,0 +1,15 @@
+name: similarity
+description: Similarity algorithms for Dart.
+version: 0.1.0
+repository: https://github.com/mcmah309/similarity
+
+environment:
+  sdk: ^3.2.0
+
+# Add regular dependencies here.
+dependencies:
+  offset_list: ^0.1.0
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
