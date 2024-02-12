@@ -1,3 +1,7 @@
+## 0.2.1
+
+- Library name
+
 ## 0.2.0
 
 - DL distance and similarity
