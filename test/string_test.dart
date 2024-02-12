@@ -1,5 +1,4 @@
-import 'package:similarity/math.dart';
-import 'package:similarity/string.dart';
+import 'package:similarity/similarity.dart';
 import 'package:test/test.dart';
 
 void main() {

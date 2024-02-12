@@ -1,4 +1,4 @@
-import 'package:similarity/math.dart';
+import 'package:similarity/similarity.dart';
 
 // Notes:
 // The Damerau–Levenshtein distance (DL) and the Optimal String Alignment distance (OSA) are different in that the OSA
